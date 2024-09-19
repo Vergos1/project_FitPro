@@ -30,8 +30,8 @@ Follow these steps to run the project locally:
 
 The following technologies are used in the project:
 
-- **Css** - a style language for designing the appearance of web pages.
-- HTML is a markup language for creating the structure of web pages.
-- JavaScript is a programming language for adding interactivity and dynamic logic to web pages.
-- Bootstrap is a framework for creating adaptive user interfaces with ready-made components and a grid system.
-- Font-awesome is a library of vector icons for adding icons to web pages.
+- **CSS** - a style language for designing the appearance of web pages.
+- **HTML** - is a markup language for creating the structure of web pages.
+- **JavaScript** - is a programming language for adding interactivity and dynamic logic to web pages.
+- **Bootstrap** - is a framework for creating adaptive user interfaces with ready-made components and a grid system.
+- **Font-awesome** - is a library of vector icons for adding icons to web pages.
