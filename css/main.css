@@ -2076,8 +2076,10 @@ input.num-product::-webkit-inner-spin-button {
 /*//////////////////////////////////////////////////////////////////
 [ Block1 ]*/
 .block1 {
+    height: 320px;
     position: relative;
     border: 1px solid #e6e6e6;
+    overflow: hidden;
 }
 
 .block1-txt {
