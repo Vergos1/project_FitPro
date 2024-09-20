@@ -375,6 +375,14 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
     width: 55%;
 }
 
+@media screen and (max-width: 991px) {
+    .logo-main {
+        width: -webkit-max-content;
+        width: -moz-max-content;
+        width: max-content;
+    }
+}
+
 .menu-desktop {
     display: -webkit-box;
     display: -ms-flexbox;
