@@ -391,6 +391,10 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
     -ms-flex-align: center;
     align-items: center;
     height: 100%;
+    width: 100%;
+    -webkit-box-pack: end;
+    -ms-flex-pack: end;
+    justify-content: flex-end;
 }
 
 .main-menu {
@@ -2130,6 +2134,12 @@ input.num-product::-webkit-inner-spin-button {
 [ Block2 ]*/
 .block2-pic {
     position: relative;
+
+    img {
+        height: 250px;
+        min-height: 250px;
+        max-height: 250px;
+    }
 }
 
 .block2-btn {
