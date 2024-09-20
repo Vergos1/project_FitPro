@@ -371,6 +371,9 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
 
 /*------------------------------------------------------------------
 [ Menu ]*/
+.logo-main {
+    width: 55%;
+}
 
 .menu-desktop {
     display: -webkit-box;
