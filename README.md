@@ -12,7 +12,7 @@ Sportswear e-commerce landing built with HTML, Bootstrap and jQuery.
 
 FitPro Store is a multi-page sportswear e-commerce landing page. The project showcases a product catalog with category filtering, a brand story, contact form and Google Maps integration. Built as a frontend-only project using classic web technologies.
 
-🔗 **Live:** [vergos1.github.io/project_FitPro](https://vergos1.github.io/project_FitPro/)
+🔗 **Live:** [fitpro-store](https://vergos1.github.io/fitpro-store/)
 
 ## Pages
 
